@@ -9,18 +9,18 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a **Full Stack Developer** passionate about building scalable web applications and bringing ideas to life through code. I enjoy working across the entire development stack, from crafting intuitive user interfaces to architecting robust backend systems.
 
-- 🚀 Building end-to-end solutions with modern technologies
-- 💡 Always learning and exploring new tools and frameworks
-- 🎯 Focused on writing clean, maintainable, and efficient code
-- ⚡ Fun fact: **I can code for hours without a single drop of caffeine!**
+- Building end-to-end solutions with modern technologies
+- Always learning and exploring new tools and frameworks
+- Focused on writing clean, maintainable, and efficient code
+- Fun fact: **I can code for hours without a single drop of caffeine!**
 
 ---
 
-## 🛠️ Technology Stack & Tools
+## Technology Stack & Tools
 
 ### Frontend
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -81,11 +81,11 @@ I'm a **Full Stack Developer** passionate about building scalable web applicatio
 
 ---
 
-## 📊 GitHub Analytics & Statistics
+## GitHub Analytics & Statistics
 
 <div align="center">
 
-### 🏆 GitHub Trophy
+### GitHub Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=rstar327&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
@@ -94,7 +94,7 @@ I'm a **Full Stack Developer** passionate about building scalable web applicatio
 
 <div align="center">
 
-### 📈 Contribution Stats & Activity
+### Contribution Stats & Activity
 
 <table>
 <tr>
@@ -117,7 +117,7 @@ I'm a **Full Stack Developer** passionate about building scalable web applicatio
 
 <div align="center">
 
-### 💻 Most Used Languages & Contribution Graph
+### Most Used Languages & Contribution Graph
 
 <table>
 <tr>
