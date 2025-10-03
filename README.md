@@ -7,7 +7,6 @@
 
 </div>
 
----
 
 ## About Me
 
@@ -18,7 +17,6 @@ I'm a **Full Stack Developer** passionate about building scalable web applicatio
 - Focused on writing clean, maintainable, and efficient code
 - Fun fact: **I can code for hours without a single drop of caffeine!**
 
----
 
 ## Technology Stack & Tools
 
@@ -93,18 +91,16 @@ I'm a **Full Stack Developer** passionate about building scalable web applicatio
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
----
 
 ## GitHub Analytics & Statistics
 
 <div align="center">
 
 ### GitHub Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=rstar327&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rstar327&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
----
 
 <div align="center">
 
@@ -114,12 +110,12 @@ I'm a **Full Stack Developer** passionate about building scalable web applicatio
 <tr>
 <td width="50%" align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=rstar327&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=ff6e96&text_color=ffffff&icon_color=ff6e96" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rstar327&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   
 </td>
 <td width="50%" align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rstar327&theme=radical&hide_border=true&background=0d1117&ring=ff6e96&fire=ff6e96&currStreakLabel=ff6e96" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rstar327&theme=algolia&hide_border=truering=ff6e96" alt="GitHub Streak"/>
   
 </td>
 </tr>
@@ -127,7 +123,6 @@ I'm a **Full Stack Developer** passionate about building scalable web applicatio
 
 </div>
 
----
 
 <div align="center">
 
@@ -135,14 +130,14 @@ I'm a **Full Stack Developer** passionate about building scalable web applicatio
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="35%" align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rstar327&theme=radical&hide_border=true&layout=compact&bg_color=0d1117&title_color=ff6e96&text_color=ffffff&langs_count=8" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rstar327&theme=algolia&hide_border=true&layout=compact&langs_count=8" alt="Top Languages"/>
   
 </td>
-<td width="50%" align="center">
+<td width="65%" align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rstar327&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=ff6e96&line=ff6e96&point=ffffff" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rstar327&theme=algolia&hide_border=true&area=true&point=ffffff" alt="Contribution Graph"/>
   
 </td>
 </tr>
@@ -150,7 +145,6 @@ I'm a **Full Stack Developer** passionate about building scalable web applicatio
 
 </div>
 
----
 
 ### 💭 "The best way to predict the future is to invent it." - Alan Kay
 
