@@ -1,26 +1,39 @@
 <div align="center">
-  
-# Hi there! 👋
+
+# Full Stack Developer | AI-Powered Development Enthusiast
+
 [![Profile Views](https://komarev.com/ghpvc/?username=rstar327&color=blueviolet&style=for-the-badge)](https://github.com/rstar327)
 [![GitHub followers](https://img.shields.io/github/followers/rstar327?logo=GitHub&style=for-the-badge)](https://github.com/rstar327)
 [![GitHub stars](https://img.shields.io/github/stars/rstar327?logo=github&style=for-the-badge)](https://github.com/rstar327)
 
+### Transforming ideas into production-ready applications across the entire stack
+
 </div>
 
+---
 
 ## About Me
 
-I'm a **Full Stack Developer** passionate about building scalable web applications and bringing ideas to life through code. I enjoy working across the entire development stack, from crafting intuitive user interfaces to architecting robust backend systems.
+**Full Stack Developer** specializing in building **scalable, high-performance web applications** that solve real-world problems. I excel at the intersection of **modern development practices** and **cutting-edge AI tools**, leveraging the best of both worlds to deliver exceptional products.
 
-- Building end-to-end solutions with modern technologies
-- Always learning and exploring new tools and frameworks
-- Focused on writing clean, maintainable, and efficient code
-- Fun fact: **I can code for hours without a single drop of caffeine!**
+### What Drives Me
+- **End-to-end ownership** — From initial concept to production deployment
+- **AI-augmented development** — Embracing Claude, Copilot, and modern AI tools to maximize productivity
+- **Architecture-first thinking** — Building maintainable, scalable systems that stand the test of time
+- **Performance obsessed** — Writing clean, efficient code that delivers results
+- **Continuous learner** — Always exploring emerging technologies and best practices
 
+### Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rstar327/rstar327/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rstar327/rstar327/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rstar327/rstar327/output/github-contribution-grid-snake.svg">
+</picture>
 
 ## Technology Stack & Tools
 
-### Frontend
+### Frontend Development
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
@@ -34,7 +47,7 @@ I'm a **Full Stack Developer** passionate about building scalable web applicatio
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 
-### Backend
+### Backend Development
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -47,7 +60,7 @@ I'm a **Full Stack Developer** passionate about building scalable web applicatio
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### Database
+### Database & BaaS
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -67,9 +80,6 @@ I'm a **Full Stack Developer** passionate about building scalable web applicatio
 ![Bolt](https://img.shields.io/badge/Bolt-784BE8?style=for-the-badge&logo=lightning&logoColor=white)
 ![v0](https://img.shields.io/badge/v0-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Bubble](https://img.shields.io/badge/Bubble-0C46C5?style=for-the-badge&logo=bubble&logoColor=white)
-![Windsurf](https://img.shields.io/badge/Windsurf-00D4FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMjIgMTJMMTIgMjJMMiAxMkwxMiAyWiIgZmlsbD0iI0ZGRiIvPgo8L3N2Zz4=&logoColor=white)
-![Midjourney](https://img.shields.io/badge/Midjourney-000000?style=for-the-badge&logo=image&logoColor=white)
-![DALL·E](https://img.shields.io/badge/DALL·E-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ### DevOps & Cloud
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -83,7 +93,7 @@ I'm a **Full Stack Developer** passionate about building scalable web applicatio
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-### Tools & Others
+### Tools & Productivity
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -92,66 +102,46 @@ I'm a **Full Stack Developer** passionate about building scalable web applicatio
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 
-## GitHub Analytics & Statistics
+## GitHub Performance Metrics
 
 <div align="center">
 
-### GitHub Trophy
+### Achievements & Milestones
 [![trophy](https://github-profile-trophy.vercel.app/?username=rstar327&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
+---
 
 <div align="center">
 
-### Contribution Stats & Activity
+### Development Statistics
 
-<table>
-<tr>
-<td width="50%" align="center">
-  
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rstar327&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  
-</td>
-<td width="50%" align="center">
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rstar327&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rstar327&theme=algolia&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rstar327&theme=algolia&hide_border=truering=ff6e96" alt="GitHub Streak"/>
-  
-</td>
-</tr>
-</table>
+</div>
+
+<div align="center">
+
+### Technical Breakdown
+
+<img width="40%" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rstar327&theme=algolia&hide_border=true&layout=pie&langs_count=8&bg_color=0D1117" alt="Top Languages"/>
 
 </div>
 
 
+---
+
 <div align="center">
 
-### Most Used Languages & Contribution Graph
+### "The best way to predict the future is to invent it." — Alan Kay
 
-<table>
-<tr>
-<td width="35%" align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rstar327&theme=algolia&hide_border=true&layout=compact&langs_count=8" alt="Top Languages"/>
-  
-</td>
-<td width="65%" align="center">
+<br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rstar327&theme=algolia&hide_border=true&area=true&point=ffffff" alt="Contribution Graph"/>
-  
-</td>
-</tr>
-</table>
+**Thanks for visiting!** If you find my work interesting, feel free to star a repository or reach out to collaborate.
 
-</div>
-
-
-### 💭 "The best way to predict the future is to invent it." - Alan Kay
-
-**Thanks for visiting my profile!**
-
-*Don't forget to ⭐ some repositories if you find them interesting!*
-
-**💻 Happy Coding!**
+**Let's build something amazing together.**
 
 </div>
