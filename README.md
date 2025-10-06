@@ -117,7 +117,7 @@
 
 ### Development Statistics
 
-<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rstar327&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
+<img width="49%" src="https://my-github-stats-opal.vercel.app/api?username=rstar327&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rstar327&theme=algolia&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 
 </div>
