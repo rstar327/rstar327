@@ -115,10 +115,11 @@
 
 <div align="center">
 
-### Development Statistics
 
-<img width="49%" src="https://my-github-stats-opal.vercel.app/api?username=rstar327&theme=algolia&include_all_commits=true&show_icons=true&bg_color=0D1117&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rstar327&theme=algolia&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+<img width="64%" src="https://my-github-stats-opal.vercel.app/api?username=rstar327&theme=algolia&include_all_commits=true&show_icons=true&bg_color=0D1117&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true" alt="GitHub Stats"/>
+<img width="34%" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rstar327&theme=algolia&hide_border=true&layout=pie&langs_count=8&bg_color=0D1117" alt="Top Languages"/>
+
 
 </div>
 
@@ -126,8 +127,7 @@
 
 ### Technical Breakdown
 
-<img width="40%" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rstar327&theme=algolia&hide_border=true&layout=pie&langs_count=8&bg_color=0D1117" alt="Top Languages"/>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=rstar327&theme=algolia&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 
 </div>
 
