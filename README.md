@@ -107,17 +107,16 @@
 <div align="center">
 
 ### Achievements & Milestones
-[![trophy](https://github-profile-trophy.vercel.app/?username=rstar327&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rstar327&theme=light&margin-w=4&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
----
 
 <div align="center">
 
 
-<img width="64%" src="https://my-github-stats-opal.vercel.app/api?username=rstar327&theme=algolia&include_all_commits=true&show_icons=true&bg_color=0D1117&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true" alt="GitHub Stats"/>
-<img width="34%" 
+<img width="65%" src="https://my-github-stats-opal.vercel.app/api?username=rstar327&theme=algolia&include_all_commits=true&show_icons=true&bg_color=0D1117&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true" alt="GitHub Stats"/>
+<img width="33%" 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=rstar327&theme=algolia&hide_border=true&layout=pie&langs_count=8&bg_color=0D1117" alt="Top Languages"/>
 
 
@@ -125,9 +124,8 @@
 
 <div align="center">
 
-### Technical Breakdown
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=rstar327&theme=algolia&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=rstar327&theme=algolia&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 
 </div>
 
