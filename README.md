@@ -1,6 +1,6 @@
 <div align="center">
 
-# Full Stack Developer | AI-Powered Development Enthusiast
+# Full-Stack Developer | Turning Ideas into AI-Powered Digital Experiences
 
 [![Profile Views](https://komarev.com/ghpvc/?username=rstar327&color=blueviolet&style=for-the-badge)](https://github.com/rstar327)
 [![GitHub followers](https://img.shields.io/github/followers/rstar327?logo=GitHub&style=for-the-badge)](https://github.com/rstar327)
