@@ -124,11 +124,15 @@
 
 <div align="center">
 
-
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=rstar327&theme=algolia&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+<img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=rstar327&theme=algolia&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 
 </div>
 
+<div align="center">
+
+<img width="65%" src="https://wakatime.com/share/@rstar327/533a198d-e4b6-4fa0-93f0-841f1a24af11.svg" />
+
+</div>
 
 ---
 
