@@ -130,7 +130,7 @@
 
 <div align="center">
 
-<img width="65%" src="https://wakatime.com/share/@rstar327/533a198d-e4b6-4fa0-93f0-841f1a24af11.svg" />
+<img width="65%" src="https://wakatime.com/share/@rstar327/cf237e7a-1786-44d8-907a-0f036f10120a.svg" />
 
 </div>
 
