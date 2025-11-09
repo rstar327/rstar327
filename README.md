@@ -6,7 +6,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/rstar327?logo=GitHub&style=for-the-badge)](https://github.com/rstar327)
 [![GitHub stars](https://img.shields.io/github/stars/rstar327?logo=github&style=for-the-badge)](https://github.com/rstar327)
 
-### Transforming ideas into production-ready applications across the entire stack
+### Transforming ideas into production-ready applications
 
 </div>
 
