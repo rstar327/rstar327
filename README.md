@@ -107,7 +107,7 @@
 <div align="center">
 
 ### Achievements & Milestones
-[![trophy](https://github-profile-trophy.vercel.app/?username=rstar327&theme=light&margin-w=4&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rstar327&theme=light&margin-w=4&row=1&column=9)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
