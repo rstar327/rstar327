@@ -33,73 +33,92 @@
 
 ## Technology Stack & Tools
 
-### Frontend Development
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
-
-### Backend Development
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### Database & BaaS
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-
-### AI Development Tools
-![Claude](https://img.shields.io/badge/Claude-181818?style=for-the-badge&logo=anthropic&logoColor=D97757)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![Replit](https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white)
-![Lovable](https://img.shields.io/badge/Lovable-FF6B6B?style=for-the-badge&logo=heart&logoColor=white)
-![Bolt](https://img.shields.io/badge/Bolt-784BE8?style=for-the-badge&logo=lightning&logoColor=white)
-![v0](https://img.shields.io/badge/v0-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Bubble](https://img.shields.io/badge/Bubble-0C46C5?style=for-the-badge&logo=bubble&logoColor=white)
-
-### DevOps & Cloud
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
-### Tools & Productivity
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+<table>
+<tr>
+<td width="30%" align="center"><b>Frontend Development</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" alt="Next.js" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=react" title="React" alt="React" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=vue" title="Vue.js" alt="Vue.js" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=angular" title="Angular" alt="Angular" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=typescript" title="TypeScript" alt="TypeScript" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=javascript" title="JavaScript" alt="JavaScript" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" alt="Tailwind CSS" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" alt="Bootstrap" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=sass" title="Sass" alt="Sass" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=vite" title="Vite" alt="Vite" width="48" height="48"/>
+</td>
+</tr>
+<tr>
+<td width="30%" align="center"><b>Backend Development</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" alt="Node.js" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=php" title="PHP" alt="PHP" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=flask" title="Flask" alt="Flask" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" alt="FastAPI" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=laravel" title="Laravel" alt="Laravel" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=express" title="Express.js" alt="Express.js" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=django" title="Django" alt="Django" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=nestjs" title="NestJS" alt="NestJS" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=graphql" title="GraphQL" alt="GraphQL" width="48" height="48"/>
+</td>
+</tr>
+<tr>
+<td width="30%" align="center"><b>Database & BaaS</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=supabase" title="Supabase" alt="Supabase" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=firebase" title="Firebase" alt="Firebase" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=cloudflare" title="Cloudflare" alt="Cloudflare" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" alt="PostgreSQL" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" alt="MongoDB" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=redis" title="Redis" alt="Redis" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=sqlite" title="SQLite" alt="SQLite" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=prisma" title="Prisma" alt="Prisma" width="48" height="48"/>
+</td>
+</tr>
+<tr>
+<td width="30%" align="center"><b>AI Development Tools</b></td>
+<td>
+<img src="https://skills.syvixor.com/api/icons?i=claudeai" title="Claude AI" alt="Claude AI" width="48" height="48"/>
+<img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg" title="Google Gemini" alt="Google Gemini" width="48" height="48"/>
+<img src="https://skills.syvixor.com/api/icons?perline=15&i=chatgpt" title="ChatGPT" alt="ChatGPT" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=github" title="GitHub Copilot" alt="GitHub Copilot" width="48" height="48"/>
+<img src="https://www.cursor.com/brand/icon.svg" title="Cursor" alt="Cursor" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=replit" title="Replit" alt="Replit" width="48" height="48"/>
+<img src="https://skills.syvixor.com/api/icons?i=lovable" title="Lovable" alt="Lovable" width="48" height="48"/>
+<img src="https://skills.syvixor.com/api/icons?i=bolt" title="Bolt" alt="Bolt" width="48" height="48"/>
+<img src="https://skills.syvixor.com/api/icons?i=v0" title="v0" alt="v0" width="48" height="48"/>
+</td>
+</tr>
+<tr>
+<td width="30%" align="center"><b>DevOps & Cloud</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions" alt="GitHub Actions" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=jenkins" title="Jenkins" alt="Jenkins" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes" alt="Kubernetes" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=aws" title="AWS" alt="AWS" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=gcp" title="Google Cloud" alt="Google Cloud" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=vercel" title="Vercel" alt="Vercel" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=netlify" title="Netlify" alt="Netlify" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=nginx" title="Nginx" alt="Nginx" width="48" height="48"/>
+</td>
+</tr>
+<tr>
+<td width="30%" align="center"><b>Tools & Productivity</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=vscode" title="VS Code" alt="VS Code" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=postman" title="Postman" alt="Postman" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=figma" title="Figma" alt="Figma" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=linux" title="Linux" alt="Linux" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=notion" title="Notion" alt="Notion" width="48" height="48"/>
+</td>
+</tr>
+</table>
 
 
 ## GitHub Performance Metrics
@@ -153,4 +172,3 @@
 **Let's build something amazing together.**
 
 </div>
-
