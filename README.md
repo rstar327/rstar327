@@ -2,9 +2,9 @@
 
 # Turning Ideas into AI-Powered Digital Experiences
 
-[![Profile Views](https://komarev.com/ghpvc/?username=rstar327&color=blueviolet&style=for-the-badge)](https://github.com/rstar327)
-[![GitHub followers](https://img.shields.io/github/followers/rstar327?logo=GitHub&style=for-the-badge)](https://github.com/rstar327)
-[![GitHub stars](https://img.shields.io/github/stars/rstar327?logo=github&style=for-the-badge)](https://github.com/rstar327)
+[![Profile Views](https://komarev.com/ghpvc/?username=rstar327&color=blueviolet&style=flat)](https://github.com/rstar327)
+[![GitHub followers](https://img.shields.io/github/followers/rstar327?logo=GitHub&style=flat)](https://github.com/rstar327)
+[![GitHub stars](https://img.shields.io/github/stars/rstar327?logo=github&style=flat)](https://github.com/rstar327)
 
 ### Transforming ideas into production-ready applications
 
@@ -169,6 +169,8 @@
 
 **Thanks for visiting!** If you find my work interesting, feel free to star a repository or reach out to collaborate.
 
-**Let's build something amazing together.**
-
+**Let's build something amazing together.**<br><br>
+<a href="https://u8views.com/github/rstar327">
+  <img src="https://u8views.com/api/v1/github/profiles/114364448/views/day-week-month-total-count.svg" width="500" alt="rstar327 profile views">
+</a>
 </div>
