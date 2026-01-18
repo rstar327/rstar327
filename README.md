@@ -177,7 +177,7 @@
 
 <br>
 
-**Thanks for visiting!** If you find my work interesting, feel free to star a repository or reach out to collaborate. 
+**Thanks for visiting!** If you find my work interesting, feel free to star a repository or reach out to collaborate. Pull requests are highly appreciated.
 
 **Let's build something amazing together.**<br><br>
 <!--<a href="https://u8views.com/github/rstar327">
