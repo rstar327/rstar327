@@ -16,12 +16,26 @@
 
 **Full Stack Developer** specializing in building **scalable, high-performance web applications** that solve real-world problems. I excel at the intersection of **modern development practices** and **cutting-edge AI tools**, leveraging the best of both worlds to deliver exceptional products.
 
+<table>
+<tr>
+<td width="60%" valign="top" align="center" style="border:none;">
+
+<img width="100%" src="https://stats.hyo.dev/api/github-stats-advanced?login=rstar327" alt="GitHub Streak"/>
+
+</td>
+<td width="40%" valign="top" style="border:none;">
+
 ### What Drives Me
 - **End-to-end ownership** — From initial concept to production deployment
-- **AI-augmented development** — Embracing Claude, Copilot, and modern AI tools to maximize productivity
-- **Architecture-first thinking** — Building maintainable, scalable systems that stand the test of time
+- **AI-augmented development** — Embracing Claude, Copilot, and modern AI tools
+- **Architecture-first thinking** — Building maintainable, scalable systems
 - **Performance obsessed** — Writing clean, efficient code that delivers results
 - **Continuous learner** — Always exploring emerging technologies and best practices
+</td>
+
+</tr>
+</table>
+
 
 ### Contribution Activity
 
@@ -31,6 +45,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rstar327/rstar327/output/github-contribution-grid-snake.svg">
 </picture>
 
+<!--
 ## Technology Stack & Tools
 
 <table>
@@ -119,7 +134,7 @@
 </td>
 </tr>
 </table>
-
+-->
 
 ## GitHub Performance Metrics
 
@@ -134,16 +149,10 @@
 <div align="center">
 
 
-<img width="65%" src="https://github-stats-mu-nine.vercel.app/api?username=rstar327&show=reviews,discussions_started,discussions_answered,prs_merged&show_icons=true&include_all_commits=true&bg_color=0D1117&theme=algolia&hide_border=true" alt="GitHub Stats"/>
-<img width="33%" 
+<img width="100%" src="https://github-stats-mu-nine.vercel.app/api?username=rstar327&show=reviews,discussions_started,discussions_answered,prs_merged&show_icons=true&include_all_commits=true&bg_color=0D1117&theme=algolia&hide_border=true" alt="GitHub Stats"/>
+<!-- <img width="33%" 
   src="https://github-stats-mu-nine.vercel.app/api/top-langs/?username=rstar327&theme=algolia&hide_border=true&layout=pie&langs_count=8&bg_color=0D1117" alt="Top Languages"/>
-
-
-</div>
-
-<div align="center">
-
-<img width="80%" src="https://stats.hyo.dev/api/github-stats-advanced?login=rstar327" alt="GitHub Streak"/>
+-->
 
 </div>
 
@@ -155,7 +164,7 @@
 
 <div align="center">
 
-<img width="65%" src="https://wakatime.com/share/@rstar327/cf237e7a-1786-44d8-907a-0f036f10120a.svg" />
+<img width="100%" src="https://wakatime.com/share/@rstar327/cf237e7a-1786-44d8-907a-0f036f10120a.svg" />
 
 </div>
 
@@ -171,7 +180,8 @@
 **Thanks for visiting!** If you find my work interesting, feel free to star a repository or reach out to collaborate. 
 
 **Let's build something amazing together.**<br><br>
-<a href="https://u8views.com/github/rstar327">
+<!--<a href="https://u8views.com/github/rstar327">
   <img src="https://u8views.com/api/v1/github/profiles/114364448/views/day-week-month-total-count.svg" width="500" alt="rstar327 profile views">
 </a>
 </div>
+-->
