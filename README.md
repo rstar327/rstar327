@@ -149,7 +149,7 @@
 <div align="center">
 
 
-<img width="100%" src="https://github-stats-mu-nine.vercel.app/api?username=rstar327&show=reviews,discussions_started,discussions_answered,prs_merged&show_icons=true&include_all_commits=true&bg_color=0D1117&theme=algolia&hide_border=true" alt="GitHub Stats"/>
+<img width="90%" src="https://github-stats-mu-nine.vercel.app/api?username=rstar327&show=reviews,discussions_started,discussions_answered,prs_merged&show_icons=true&include_all_commits=true&bg_color=0D1117&theme=algolia&hide_border=true" alt="GitHub Stats"/>
 <!-- <img width="33%" 
   src="https://github-stats-mu-nine.vercel.app/api/top-langs/?username=rstar327&theme=algolia&hide_border=true&layout=pie&langs_count=8&bg_color=0D1117" alt="Top Languages"/>
 -->
@@ -164,7 +164,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://wakatime.com/share/@rstar327/cf237e7a-1786-44d8-907a-0f036f10120a.svg" />
+<img width="90%" src="https://wakatime.com/share/@rstar327/cf237e7a-1786-44d8-907a-0f036f10120a.svg" />
 
 </div>
 
