@@ -141,7 +141,7 @@
 <div align="center">
 
 ### Achievements & Milestones
-[![trophy](https://github-profile-trophy-gamma-seven.vercel.app/?username=rstar327&theme=light&margin-w=4&row=1&column=9)](https://github.com/rstar327/github-profile-trophy)
+[![trophy](https://github-profile-trophy-gamma-seven.vercel.app/?username=rstar327&alltime=true&theme=light&margin-w=4&row=1&column=9)](https://github.com/rstar327/github-profile-trophy)
 
 </div>
 
