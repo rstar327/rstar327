@@ -149,7 +149,7 @@
 <div align="center">
 
 
-<img width="60%" src="https://github-stats-mu-nine.vercel.app/api?username=rstar327&show=reviews,discussions_started,discussions_answered,prs_merged&show_icons=true&include_all_commits=true&bg_color=0D1117&theme=algolia&hide_border=true" alt="GitHub Stats"/>
+<img width="60%" src="https://github-stats-mu-nine.vercel.app/api?username=rstar327&show=reviews,discussions_started,discussions_answered,prs_merged&show_icons=true&include_all_commits=true&bg_color=0D1116&theme=algolia&hide_border=true" alt="GitHub Stats"/> 
 <!-- <img width="33%" 
   src="https://github-stats-mu-nine.vercel.app/api/top-langs/?username=rstar327&theme=algolia&hide_border=true&layout=pie&langs_count=8&bg_color=0D1117" alt="Top Languages"/>
 -->
