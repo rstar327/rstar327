@@ -36,14 +36,19 @@
 </tr>
 </table>
 
+---
 
-### Contribution Activity
+<details>
+<summary><h3>🐍 Contribution Activity</h3></summary>
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rstar327/rstar327/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rstar327/rstar327/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rstar327/rstar327/output/github-contribution-grid-snake.svg">
 </picture>
+
+</details>
 
 <!--
 ## Technology Stack & Tools
@@ -136,18 +141,18 @@
 </table>
 -->
 
-## GitHub Performance Metrics
+<details>
+<summary><h3>📊 GitHub Performance Metrics</h3></summary>
+<br>
 
 <div align="center">
 
-### Achievements & Milestones
+#### Achievements & Milestones
 [![trophy](https://github-profile-trophy-gamma-seven.vercel.app/?username=rstar327&alltime=true&theme=light&margin-w=4&row=1&column=9)](https://github.com/rstar327/github-profile-trophy)
 
 </div>
 
-
 <div align="center">
-
 
 <img width="60%" src="https://github-stats-mu-nine.vercel.app/api?username=rstar327&show=reviews,discussions_started,discussions_answered,prs_merged&show_icons=true&include_all_commits=true&bg_color=0D1116&theme=algolia&hide_border=true" alt="GitHub Stats"/> 
 <!-- <img width="33%" 
@@ -168,18 +173,23 @@
 
 </div>
 
+</details>
+
 ---
 
 <div align="center">
 
-### "The best way to predict the future is to invent it." — Alan Kay
-### "Code is like humor. When you have to explain it, it’s bad." — Cory House
+> *"The best way to predict the future is to invent it."* — Alan Kay
+> 
+> *"Code is like humor. When you have to explain it, it's bad."* — Cory House
 
 <br>
 
-**Thanks for visiting!** If you find my work interesting, feel free to star a repository or reach out to collaborate. Pull requests are highly appreciated.
+⭐ **Thanks for visiting!** If you find my work interesting, feel free to star a repository or reach out to collaborate. Pull requests are highly appreciated.
 
-**Let's build something amazing together.**<br><br>
+**Let's build something amazing together.**
+
+</div>
 <!--<a href="https://u8views.com/github/rstar327">
   <img src="https://u8views.com/api/v1/github/profiles/114364448/views/day-week-month-total-count.svg" width="500" alt="rstar327 profile views">
 </a>
